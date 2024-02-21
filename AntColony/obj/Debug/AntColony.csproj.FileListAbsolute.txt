@@ -1,0 +1,11 @@
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\bin\Debug\AntColony.exe.config
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\bin\Debug\AntColony.exe
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\bin\Debug\AntColony.pdb
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.csproj.AssemblyReference.cache
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.csproj.SuggestedBindingRedirects.cache
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.Form1.resources
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.Properties.Resources.resources
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.csproj.GenerateResource.cache
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.csproj.CoreCompileInputs.cache
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.exe
+G:\Pasha\Программирование\ОИИ\AntColony\AntColony\obj\Debug\AntColony.pdb
